@@ -1,0 +1,15 @@
+{
+  "name": "test-connector",
+  "version": "0.1.0",
+  "description": "A ChatConnector for MS Bot Framework to enable simple unit-testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Heller",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "chai": "^3.5.0"
+  }
+}
